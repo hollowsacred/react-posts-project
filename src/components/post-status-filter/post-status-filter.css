@@ -1,0 +1,18 @@
+.btn_colored {
+    background-color: rgb(5, 179, 179);
+    color: white;
+}
+.btn-info {
+    background-color: rgb(5, 179, 179);
+}
+
+.btn-group .btn:last-child {
+    flex-grow: 3 !important;
+}
+.btn_bordered:hover {
+    background-color: gray;
+}
+
+.btn-group {
+    width: 200px;
+}
